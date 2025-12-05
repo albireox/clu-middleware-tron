@@ -7,8 +7,8 @@
 
 //! A library and service to act as middleware between Tron actors and a RabbitMQ message broker.
 //!
-//! Refer to the [README](https://github.com/albireox/clu-middleware-tron/blob/main/README.md) in
-//! the [clu-middleware-tron](https://github.com/albireox/clu-middleware-tron) repository for more
+//! Refer to the [README](https://github.com/sdss/clu-middleware-tron/blob/main/README.md) in
+//! the [clu-middleware-tron](https://github.com/sdss/clu-middleware-tron) repository for more
 //! information.
 
 pub mod parser;

@@ -2,6 +2,12 @@
 name = "clu-middleware-tron"
 version = "0.1.0"
 edition = "2024"
+authors = ["José Sánchez-Gallego <gallegoj@uw.edu>"]
+description = "Middleware for communication between Tron actors and RabbitMQ"
+readme = "README.md"
+license = "BSD-3-Clause"
+homepage = "https://github.com/sdss/clu-middleware-tron"
+repository = "https://github.com/sdss/clu-middleware-tron"
 
 [lib]
 crate-type = ["lib"]
